@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "buffer": "c",
+        "internet": "c",
+        "socket": "c",
+        "string_view": "c",
+        "ranges": "c"
+    }
+}

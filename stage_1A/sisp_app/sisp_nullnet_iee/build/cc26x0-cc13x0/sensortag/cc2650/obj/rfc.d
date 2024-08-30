@@ -1,0 +1,31 @@
+build/cc26x0-cc13x0/sensortag/cc2650/obj/rfc.o: \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rfc.c \
+ /home/irt/IoT/contiki-ng/os/services/shell/module-macros.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rfc.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_types.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_chip_def.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_memmap.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_rfc_pwr.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_rfc_dbell.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rf_common_cmd.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rf_mailbox.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rf_prop_cmd.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_fcfg1.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_adi_3_refsys.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_adi.h \
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rom.h
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rfc.c :
+ /home/irt/IoT/contiki-ng/os/services/shell/module-macros.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rfc.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_types.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_chip_def.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_memmap.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_rfc_pwr.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_rfc_dbell.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rf_common_cmd.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rf_mailbox.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rf_prop_cmd.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_fcfg1.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_adi_3_refsys.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/inc/hw_adi.h :
+ /home/irt/IoT/contiki-ng/arch/cpu/cc26x0-cc13x0/lib/cc26xxware/driverlib/rom.h :
