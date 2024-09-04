@@ -18,21 +18,6 @@ PROCESS_THREAD(sisp_app, ev, data)
     printf("Contiki-NG is running on %s\n", CONTIKI_TARGET_STRING);
     
     sisp_init(START_DELAY,SEND_INTERVAL,DELTA);
-    // clock_time_t sclock;
-    // static struct etimer e_timer;
-    
-    // etimer_set(&e_timer, START_DELAY*CLOCK_SECOND);
-    // while (1) {
-    //     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&e_timer));
-    //     sisp_get_sCLK(&sclock);
-    //     printf("sclock = %lu\n",sclock);
-    //     if (sisp_node_issync())
-    //     {
-    //         printf("\tSync ! \n");
-    //     }
-        
-    //     etimer_set(&e_timer, CLOCK_SECOND/32);
-    // }
     
 
     PROCESS_END();

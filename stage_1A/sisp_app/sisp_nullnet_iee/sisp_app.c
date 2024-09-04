@@ -21,6 +21,8 @@
 #include "contiki.h"
 #include "sisp.h"
 
+#define LOG_LEVEL LOG_LEVEL_DBG
+
 #define START_DELAY 10
 #define SEND_INTERVAL 128
 #define DELTA 15
